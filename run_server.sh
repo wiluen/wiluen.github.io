@@ -1,1 +1,1 @@
-bundle exec jekyll liveserve
+/Users/huanghaiyu/.rubies/ruby-3.1.3/bin/bundle exec jekyll liveserve
