@@ -23,7 +23,8 @@ redirect_from:
 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Our paper "TraStrainer: Adaptive Sampling for Distributed Traces with System Runtime State" has won an **ACM SIGSOFT Distinguished Paper award 🏆**.
+- *2024.07*: &nbsp;🎉🎉 Our paper "FaaSRCA: Full Lifecycle Root Cause Analysis for Serverless Applications" was accepted by ISSRE'24 Research Track.
+- *2024.06*: &nbsp;🎉🎉 Our paper "TraStrainer: Adaptive Sampling for Distributed Traces with System Runtime State" has won an **<font color="red">ACM SIGSOFT Distinguished Paper award</font> 🏆**.
 - *2024.01*: &nbsp;🎉🎉 Our paper "TraStrainer: Adaptive Sampling for Distributed Traces with System Runtime State" was accepted by FSE'24 Research Track.
 - *2023.12*: &nbsp;🎉🎉 Our LLM-based AIOps solutions won [3rd place🥉](https://mp.weixin.qq.com/s/KctBL78OgxSOzPXoeGfe5w) in the [2023 CCF International AIOps Challenge](https://competition.aiops-challenge.com/home/competition/1669253443434315819) \(ranking 1st🏅 among student teams\).
 
@@ -37,6 +38,17 @@ redirect_from:
 
   [[Paper](https://huanghy95.github.io/files/fse24/fse2024TraStrainer.pdf)]
   [[Code](https://github.com/IntelligentDDS/TraStrainer)]
+  [[Slides](https://huanghy95.github.io/files/fse24/fse351slides.pdf)]
+  [DOI]
+
+- &nbsp; <span class="badge">ISSRE '24</span> &nbsp;**FaaSRCA: Full Lifecycle Root Cause Analysis for Serverless Applications**
+
+  <span style="font-size:14px;"> Jin Huang, Pengfei Chen, Guangba Yu, Yilun Wang, **Haiyu Huang** and Zilong He. </span>
+
+  <span style="font-size:14px;"> *The 35th International Symposium on Software Reliability Engineering, Tsukuba, Japan, October 2024.* </span>
+
+  [Paper]
+  [Code]
   [Slides]
   [DOI]
 
