@@ -23,6 +23,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2024.08*: &nbsp;🎉🎉 Our paper "FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows" was accepted by ASE'24 Research Track.
 - *2024.07*: &nbsp;🎉🎉 Our paper "FaaSRCA: Full Lifecycle Root Cause Analysis for Serverless Applications" was accepted by ISSRE'24 Research Track.
 - *2024.06*: &nbsp;🎉🎉 Our paper "TraStrainer: Adaptive Sampling for Distributed Traces with System Runtime State" has won an **<font color="red">ACM SIGSOFT Distinguished Paper award</font> 🏆**.
 - *2024.01*: &nbsp;🎉🎉 Our paper "TraStrainer: Adaptive Sampling for Distributed Traces with System Runtime State" was accepted by FSE'24 Research Track.
@@ -39,6 +40,17 @@ redirect_from:
   [[Paper](https://huanghy95.github.io/files/fse24/fse2024TraStrainer.pdf)]
   [[Code](https://github.com/IntelligentDDS/TraStrainer)]
   [[Slides](https://huanghy95.github.io/files/fse24/fse351slides.pdf)]
+  [DOI]
+
+- &nbsp; <span class="badge">ASE '24</span> &nbsp;**FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows**
+
+  <span style="font-size:14px;"> Yilun Wang, Pengfei Chen, Hui Dou, Guangba Yu, Zilong He and **Haiyu Huang**. </span>
+
+  <span style="font-size:14px;"> *The 39th IEEE/ACM International Conference on Automated Software Engineering, California, United States, October 2024.* </span>
+
+  [Paper]
+  [Code]
+  [Slides]
   [DOI]
 
 - &nbsp; <span class="badge">ISSRE '24</span> &nbsp;**FaaSRCA: Full Lifecycle Root Cause Analysis for Serverless Applications**
