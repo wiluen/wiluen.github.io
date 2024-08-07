@@ -40,7 +40,7 @@ redirect_from:
   [[Paper](https://huanghy95.github.io/files/fse24/fse2024TraStrainer.pdf)]
   [[Code](https://github.com/IntelligentDDS/TraStrainer)]
   [[Slides](https://huanghy95.github.io/files/fse24/fse351slides.pdf)]
-  [DOI]
+  [[DOI](https://dl.acm.org/doi/abs/10.1145/3643748)]
 
 - &nbsp; <span class="badge">ASE '24</span> &nbsp;**FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows**
 
