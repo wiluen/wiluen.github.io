@@ -17,45 +17,34 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-📚 Haiyu Huang is currently a 1st-year CSE M.Phil candidate at [Sun Yat-Sen University](https://cse.sysu.edu.cn/), advised by Professor [Pengfei Chen](https://cse.sysu.edu.cn/content/3747). Previously, he received a B.E. in CSE from Sun Yat-Sen University in 2023. He has interned at [Alibaba Cloud](https://cn.aliyun.com/), [Huawei](https://www.huawei.com/), and [Ant Group](https://www.antgroup.com/) in Cloud Native Application Performance Management related departments, developing algorithms and solving real-world problems.
+📚 Yilun Wang is currently a 1st-year D.Eng candidate at [Sun Yat-Sen University](https://sysu.edu.cn/), advised by Professor [Pengfei Chen](https://cse.sysu.edu.cn/content/3747). Previously, he received a M.Eng from Anhui University in 2024, advised by Professor [Hui Dou](https://cs.ahu.edu.cn/2021/1216/c20807a277166/page.htm). He has interned at [Ant Group](https://www.antgroup.com/) in Cloud Platform Performance Management related departments, developing algorithms and solving real-world problems.
 
-💡 His research interest lies in microservices reliabilty (e.g., developing observability tools for cloud systems.), AI for DevOps (e.g., automating software debugging and troubleshooting during development or operations, especially using LLMs) and MLOps (e.g., automating AI system operations).
+💡 His research interest lies in AI for System (e.g., automating configuration tuning and resource management) and performance optimization for cloud and AI systems. 
 
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 Our paper "FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows" was accepted by ASE'24 Research Track.
 - *2024.07*: &nbsp;🎉🎉 Our paper "FaaSRCA: Full Lifecycle Root Cause Analysis for Serverless Applications" was accepted by ISSRE'24 Research Track.
-- *2024.06*: &nbsp;🎉🎉 Our paper "TraStrainer: Adaptive Sampling for Distributed Traces with System Runtime State" has won an **<font color="red">ACM SIGSOFT Distinguished Paper award</font> 🏆**.
-- *2024.01*: &nbsp;🎉🎉 Our paper "TraStrainer: Adaptive Sampling for Distributed Traces with System Runtime State" was accepted by FSE'24 Research Track.
-- *2023.12*: &nbsp;🎉🎉 Our LLM-based AIOps solutions won [3rd place🥉](https://mp.weixin.qq.com/s/KctBL78OgxSOzPXoeGfe5w) in the [2023 CCF International AIOps Challenge](https://competition.aiops-challenge.com/home/competition/1669253443434315819) \(ranking 1st🏅 among student teams\).
+- *2023.07*: &nbsp;🎉🎉 Our poster "DeepCAT: A Cost-Efficient Online Configuration Auto-Tuning Approach for Big Data Frameworks" was presented at ACM TURC'2023 & ChinaSys.
+- *2022.06*: &nbsp;🎉🎉 Our paper "DeepCAT: A Cost-Efficient Online Configuration Auto-Tuning Approach for Big Data Frameworks" was accepted by ICPP'22 Research Track.
+
 
 # 📝 Publications 
 
-- &nbsp; <span class="badge">FSE '24</span> &nbsp;&nbsp;<span class="award">Distinguished Paper Award</span> **TraStrainer: Adaptive Sampling for Distributed Traces with System Runtime State**
-
-  <span style="font-size:14px;"> **Haiyu Huang**, Xiaoyu Zhang, Pengfei Chen, Zilong He, Zhiming Chen, Guangba Yu, Hongyang Chen and Chen Sun. </span>
-
-  <span style="font-size:14px;"> *The ACM International Conference on the Foundations of Software Engineering, Porto de Galinhas, Brazil, July 2024.* </span>
-
-  [[Paper](https://huanghy95.github.io/files/fse24/fse2024TraStrainer.pdf)]
-  [[Code](https://github.com/IntelligentDDS/TraStrainer)]
-  [[Slides](https://huanghy95.github.io/files/fse24/fse351slides.pdf)]
-  [[DOI](https://dl.acm.org/doi/abs/10.1145/3643748)]
-
 - &nbsp; <span class="badge">ASE '24</span> &nbsp;**FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows**
 
-  <span style="font-size:14px;"> Yilun Wang, Pengfei Chen, Hui Dou, Guangba Yu, Zilong He and **Haiyu Huang**. </span>
+  <span style="font-size:14px;"> **Yilun Wang**, Pengfei Chen, Hui Dou, Guangba Yu, Zilong He and Haiyu Huang. </span>
 
   <span style="font-size:14px;"> *The 39th IEEE/ACM International Conference on Automated Software Engineering, California, United States, October 2024.* </span>
 
   [Paper]
-  [Code]
+  [[Code]](https://github.com/wiluen/FaaSConf)]
   [Slides]
   [DOI]
 
 - &nbsp; <span class="badge">ISSRE '24</span> &nbsp;**FaaSRCA: Full Lifecycle Root Cause Analysis for Serverless Applications**
 
-  <span style="font-size:14px;"> Jin Huang, Pengfei Chen, Guangba Yu, Yilun Wang, **Haiyu Huang** and Zilong He. </span>
+  <span style="font-size:14px;"> Jin Huang, Pengfei Chen, Guangba Yu, **Yilun Wang**, Haiyu Huang and Zilong He. </span>
 
   <span style="font-size:14px;"> *The 35th International Symposium on Software Reliability Engineering, Tsukuba, Japan, October 2024.* </span>
 
@@ -64,18 +53,29 @@ redirect_from:
   [Slides]
   [DOI]
 
+- &nbsp; <span class="badge">ICPP '22</span> &nbsp;**DeepCAT: A Cost-Efficient Online Configuration Auto-Tuning Approach for Big Data Frameworks**
+
+  <span style="font-size:14px;"> Hui Dou, **Yilun Wang**(student first author), Yiwen Zhang, Pengfei Chen. </span>
+
+  <span style="font-size:14px;"> *The 51st International Conference on Parallel Processing, Bordeaux, France, August 2022.* </span>
+
+  [Paper]
+  [[Code](https://github.com/wiluen/DeepCAT)]
+  [Slides]
+  [[DOI](https://doi.org/10.1145/3545008.3545018)]
 
 # 🎖 Honors and Awards
-- *2024.06* ACM SIGSOFT Distinguished Paper award, FSE 2024.
-- *2023.12* 3rd Prize, CCF International AIOps Challenge (Ranked 1st among student teams) (**As Team Leader**).
-- *2020.10* National Scholarship, Ministry of Education of the P.R. China. 
+- *2024.06* Outstanding Master's Graduates of Anhui University.
+- *2022.10* National Scholarship, Ministry of Education of the P.R. China. 
+- *2022.09* Outstanding Graduate Student Model and First Prize Scholarship of Anhui University.
 
 # 📖 Educations
-- *2023.09 - (now)*, present M.Phil student, Sun Yat-Sen University
-- *2019.09 - 2023.06*, Bachelor degree, Sun Yat-Sen University
-  - GPA: 4.1/5.0; Rank: Top 10%
+- *2024.09 - (now)*, present Doctor of Engineering student, Sun Yat-Sen University
+- *2021.09 - 2024.06*, Master of Engineering degree, Anhui University
+- *2017.09 - 2021.06*, Bachelor degree, Anhui Institute of Information Technology
 
 # 💬 Services
-- *Reviewer:*  WWW 2024
+- *Reviewer:*  
+
 
 <!-- # 💻 Internships -->
