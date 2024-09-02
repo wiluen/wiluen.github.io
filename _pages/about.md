@@ -19,7 +19,7 @@ redirect_from:
 
 📚 Yilun Wang is currently a 1st-year Ph.D candidate at [Sun Yat-Sen University](https://sysu.edu.cn/), advised by Professor [Pengfei Chen](https://cse.sysu.edu.cn/content/3747). Previously, he received a M.Eng from Anhui University in 2024, advised by Professor [Hui Dou](https://cs.ahu.edu.cn/2021/1216/c20807a277166/page.htm). He has interned at [Ant Group](https://www.antgroup.com/) in Cloud Platform Performance Management related departments, developing algorithms and solving real-world problems.
 
-💡 His research interest lies in AI for System (e.g., automating configuration tuning and resource management) and performance optimization for cloud and AI systems. 
+💡 His research interest lies in AI for System (e.g., configuration auto-tuning and resource management) and performance optimization for cloud and AI systems. 
 
 
 # 🔥 News
@@ -31,18 +31,18 @@ redirect_from:
 
 # 📝 Publications 
 
-- &nbsp; <span class="badge">ASE '24</span> &nbsp;**FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows**
+- &nbsp; <span class="badge">ASE '24 (CCF A)</span> &nbsp;**FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows**
 
   <span style="font-size:14px;"> **Yilun Wang**, Pengfei Chen, Hui Dou, Guangba Yu, Zilong He and Haiyu Huang. </span>
 
   <span style="font-size:14px;"> *The 39th IEEE/ACM International Conference on Automated Software Engineering, California, United States, October 2024.* </span>
 
   [Paper]
-  [[Code]](https://github.com/wiluen/FaaSConf)]
+  [[Code](https://github.com/wiluen/FaaSConf)]
   [Slides]
   [DOI]
 
-- &nbsp; <span class="badge">ISSRE '24</span> &nbsp;**FaaSRCA: Full Lifecycle Root Cause Analysis for Serverless Applications**
+- &nbsp; <span class="badge">ISSRE '24 (CCF B)</span> &nbsp;**FaaSRCA: Full Lifecycle Root Cause Analysis for Serverless Applications**
 
   <span style="font-size:14px;"> Jin Huang, Pengfei Chen, Guangba Yu, **Yilun Wang**, Haiyu Huang and Zilong He. </span>
 
@@ -53,7 +53,7 @@ redirect_from:
   [Slides]
   [DOI]
 
-- &nbsp; <span class="badge">ICPP '22</span> &nbsp;**DeepCAT: A Cost-Efficient Online Configuration Auto-Tuning Approach for Big Data Frameworks**
+- &nbsp; <span class="badge">ICPP '22 (CCF B)</span> &nbsp;**DeepCAT: A Cost-Efficient Online Configuration Auto-Tuning Approach for Big Data Frameworks**
 
   <span style="font-size:14px;"> Hui Dou, **Yilun Wang**(student first author), Yiwen Zhang, Pengfei Chen. </span>
 
