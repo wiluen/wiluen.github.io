@@ -65,17 +65,16 @@ redirect_from:
   [[DOI](https://doi.org/10.1145/3545008.3545018)]
 
 # 🎖 Honors and Awards
-- *2024.06* Outstanding Master's Graduates of Anhui University.
-- *2022.10* National Scholarship, Ministry of Education of the P.R. China. 
-- *2022.09* Outstanding Graduate Student Model and First Prize Scholarship of Anhui University.
+- *2024.06* Outstanding Master's Graduates of Anhui University
+- *2022.10* National Scholarship, Ministry of Education of the P.R. China
+- *2022.09* Outstanding Graduate Student Model and First Prize Scholarship of Anhui University
+- *2020.08* 2nd Prize at the National Level, The 13th Chinese Collegiate Computing Competition(4C) **(As Team Leader)**
 
 # 📖 Educations
 - *2024.09 - (now)*, present Ph.D student, Sun Yat-Sen University
 - *2021.09 - 2024.06*, Master of Engineering degree, Anhui University
 - *2017.09 - 2021.06*, Bachelor degree, Anhui Institute of Information Technology
-
-# 💬 Services
-- *Reviewer:*  
+ 
 
 
 <!-- # 💻 Internships -->
