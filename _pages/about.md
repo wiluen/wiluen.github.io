@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-📚 Yilun Wang is currently a 1st-year D.Eng candidate at [Sun Yat-Sen University](https://sysu.edu.cn/), advised by Professor [Pengfei Chen](https://cse.sysu.edu.cn/content/3747). Previously, he received a M.Eng from Anhui University in 2024, advised by Professor [Hui Dou](https://cs.ahu.edu.cn/2021/1216/c20807a277166/page.htm). He has interned at [Ant Group](https://www.antgroup.com/) in Cloud Platform Performance Management related departments, developing algorithms and solving real-world problems.
+📚 Yilun Wang is currently a 1st-year Ph.D candidate at [Sun Yat-Sen University](https://sysu.edu.cn/), advised by Professor [Pengfei Chen](https://cse.sysu.edu.cn/content/3747). Previously, he received a M.Eng from Anhui University in 2024, advised by Professor [Hui Dou](https://cs.ahu.edu.cn/2021/1216/c20807a277166/page.htm). He has interned at [Ant Group](https://www.antgroup.com/) in Cloud Platform Performance Management related departments, developing algorithms and solving real-world problems.
 
 💡 His research interest lies in AI for System (e.g., automating configuration tuning and resource management) and performance optimization for cloud and AI systems. 
 
@@ -70,7 +70,7 @@ redirect_from:
 - *2022.09* Outstanding Graduate Student Model and First Prize Scholarship of Anhui University.
 
 # 📖 Educations
-- *2024.09 - (now)*, present Doctor of Engineering student, Sun Yat-Sen University
+- *2024.09 - (now)*, present Ph.D student, Sun Yat-Sen University
 - *2021.09 - 2024.06*, Master of Engineering degree, Anhui University
 - *2017.09 - 2021.06*, Bachelor degree, Anhui Institute of Information Technology
 
