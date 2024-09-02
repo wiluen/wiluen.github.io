@@ -31,7 +31,7 @@ redirect_from:
 
 # 📝 Publications 
 
-- &nbsp; <span class="badge">ASE '24 (CCF A)</span> &nbsp;**FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows**
+- &nbsp; <span class="badge" style="font-size:16px;">ASE '24 (CCF A)</span> &nbsp;**FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows**
 
   <span style="font-size:14px;"> **Yilun Wang**, Pengfei Chen, Hui Dou, Guangba Yu, Zilong He and Haiyu Huang. </span>
 
@@ -42,7 +42,7 @@ redirect_from:
   [Slides]
   [DOI]
 
-- &nbsp; <span class="badge">ISSRE '24 (CCF B)</span> &nbsp;**FaaSRCA: Full Lifecycle Root Cause Analysis for Serverless Applications**
+- &nbsp; <span class="badge" style="font-size:16px;">ISSRE '24 (CCF B)</span> &nbsp;**FaaSRCA: Full Lifecycle Root Cause Analysis for Serverless Applications**
 
   <span style="font-size:14px;"> Jin Huang, Pengfei Chen, Guangba Yu, **Yilun Wang**, Haiyu Huang and Zilong He. </span>
 
@@ -53,7 +53,7 @@ redirect_from:
   [Slides]
   [DOI]
 
-- &nbsp; <span class="badge">ICPP '22 (CCF B)</span> &nbsp;**DeepCAT: A Cost-Efficient Online Configuration Auto-Tuning Approach for Big Data Frameworks**
+- &nbsp; <span class="badge" style="font-size:16px;">ICPP '22 (CCF B)</span> &nbsp;**DeepCAT: A Cost-Efficient Online Configuration Auto-Tuning Approach for Big Data Frameworks**
 
   <span style="font-size:14px;"> Hui Dou, **Yilun Wang**(student first author), Yiwen Zhang, Pengfei Chen. </span>
 
