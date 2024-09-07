@@ -19,7 +19,7 @@ redirect_from:
 
 📚 Yilun Wang is currently a 1st-year Ph.D candidate at [Sun Yat-Sen University](https://sysu.edu.cn/), advised by Professor [Pengfei Chen](https://cse.sysu.edu.cn/content/3747). Previously, he received a M.Eng from Anhui University in 2024, advised by Professor [Hui Dou](https://cs.ahu.edu.cn/2021/1216/c20807a277166/page.htm). He has interned at [Ant Group](https://www.antgroup.com/) in Cloud Platform Performance Management related departments, developing algorithms and solving real-world problems.
 
-💡 His research interest lies in performance optimization for cloud and LLM systems(e.g., knobs, resource, workload management and scheduling). 
+💡 His research interest lies in performance optimization for cloud and LLM systems(e.g., knob, resource, workload management and scheduling). 
 
 
 # 🔥 News
@@ -40,7 +40,7 @@ redirect_from:
   [Paper]
   [[Code](https://github.com/wiluen/FaaSConf)]
   [Slides]
-  [DOI]
+  [[DOI](https://doi.org/10.1145/3691620.3695477)]
 
 - &nbsp; <span class="badge" style="font-size:16px;">ISSRE '24 (CCF B)</span> &nbsp;**FaaSRCA: Full Lifecycle Root Cause Analysis for Serverless Applications**
 
