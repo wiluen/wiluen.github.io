@@ -37,7 +37,7 @@ redirect_from:
 
   <span style="font-size:14px;"> *The 39th IEEE/ACM International Conference on Automated Software Engineering, California, United States, October 2024.* </span>
 
-  [Paper]
+  [[Paper](https://github.com/wiluen/wiluen.github.io/blob/main/files/faasconf/faasconf_camera_ready.pdf)]
   [[Code](https://github.com/wiluen/FaaSConf)]
   [Slides]
   [[DOI](https://doi.org/10.1145/3691620.3695477)]
@@ -59,7 +59,7 @@ redirect_from:
 
   <span style="font-size:14px;"> *The 51st International Conference on Parallel Processing, Bordeaux, France, August 2022.* </span>
 
-  [Paper]
+  [[Paper](https://github.com/wiluen/wiluen.github.io/blob/main/files/deepcat/22ICPP.pdf)]
   [[Code](https://github.com/wiluen/DeepCAT)]
   [Slides]
   [[DOI](https://doi.org/10.1145/3545008.3545018)]
