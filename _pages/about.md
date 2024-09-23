@@ -23,6 +23,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 Our LLM-based ECS metrics prediction solutions won excellent award🏆 in the 2024 [TIANCHI cloud native programming challenge](https://tianchi.aliyun.com/competition/entrance/532202)
 - *2024.09*: &nbsp;🎉🎉 Our paper "DeepCAT+: A Low-Cost and Transferrable Online Configuration Auto-Tuning Approach for Big Data Framework" was accepted by TPDS.
 - *2024.08*: &nbsp;🎉🎉 Our paper "FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows" was accepted by ASE'24 Research Track.
 - *2024.07*: &nbsp;🎉🎉 Our paper "FaaSRCA: Full Lifecycle Root Cause Analysis for Serverless Applications" was accepted by ISSRE'24 Research Track.
@@ -76,6 +77,7 @@ redirect_from:
   [[DOI](https://doi.org/10.1145/3545008.3545018)]
 
 # 🎖 Honors and Awards
+- *2024.09* Excellent award, Alibaba Cloud TIANCHI Cloud Native Programming Challenge **(As Team Leader)**
 - *2024.06* Outstanding Master's Graduates of Anhui University
 - *2022.10* National Scholarship, Ministry of Education of the P.R. China
 - *2022.09* Outstanding Graduate Student Model and First Prize Scholarship of Anhui University
