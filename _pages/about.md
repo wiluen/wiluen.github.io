@@ -23,6 +23,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 Our paper "Mint: Cost-Efficient Tracing with All Requests Collection via Commonality and Variability Analysis" was accepted by ASPLOS'25 Research Track.
 - *2024.09*: &nbsp;🎉🎉 Our LLM-based ECS metrics prediction solutions won excellent award🏆 in the 2024 [TIANCHI Cloud Native Programming Challenge](https://tianchi.aliyun.com/competition/entrance/532202) (Bonus 5000¥).
 - *2024.09*: &nbsp;🎉🎉 Our paper "DeepCAT+: A Low-Cost and Transferrable Online Configuration Auto-Tuning Approach for Big Data Framework" was accepted by TPDS.
 - *2024.08*: &nbsp;🎉🎉 Our paper "FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows" was accepted by ASE'24 Research Track.
@@ -32,6 +33,17 @@ redirect_from:
 
 
 # 📝 Publications 
+- &nbsp; <span class="badge">ASPLOS '25</span> &nbsp;**Mint: Cost-Efficient Tracing with All Requests Collection via Commonality and Variability Analysis**
+
+  <span style="font-size:14px;"> Haiyu Huang, Cheng Chen, Kunyi Chen, Pengfei Chen, Guangba Yu, Zilong He, **Yilun Wang**, Huxing Zhang and Qi Zhou. </span>
+
+  <span style="font-size:14px;"> *The ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Rotterdam, the Netherlands, March-April 2025.* </span>
+
+  [Paper]
+  [Code]
+  [Slides]
+  [DOI]
+  
 - &nbsp; <span class="badge" style="font-size:16px;">TPDS '24 (CCF A)</span> &nbsp;**DeepCAT+: A Low-Cost and Transferrable Online Configuration Auto-Tuning Approach for Big Data Framework**
 
   <span style="font-size:14px;"> Hui Dou, **Yilun Wang**(student first author), Yiwen Zhang, Pengfei Chen, Zibin Zheng. </span>
