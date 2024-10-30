@@ -33,7 +33,7 @@ redirect_from:
 
 
 # 📝 Publications 
-- &nbsp; <span class="badge">ASPLOS '25</span> &nbsp;**Mint: Cost-Efficient Tracing with All Requests Collection via Commonality and Variability Analysis**
+- &nbsp; <span class="badge" style="font-size:16px;">ASPLOS '25</span> &nbsp;**Mint: Cost-Efficient Tracing with All Requests Collection via Commonality and Variability Analysis**
 
   <span style="font-size:14px;"> Haiyu Huang, Cheng Chen, Kunyi Chen, Pengfei Chen, Guangba Yu, Zilong He, **Yilun Wang**, Huxing Zhang and Qi Zhou. </span>
 
