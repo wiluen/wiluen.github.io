@@ -96,10 +96,10 @@ redirect_from:
 - *2020.08* 2nd Prize at the National Level, The 13th Chinese Collegiate Computing Competition(4C) **(As Team Leader)**
 
 # 📖 Educations
-- *(now)*, present Ph.D student, Sun Yat-Sen University
+- *2024-2028*, present Ph.D student, Sun Yat-Sen University
 - *2023-2024*, Visiting student, Sun Yat-Sen University
-- *2024.06*, Master of Engineering degree, Anhui University
-- *2021.06*, Bachelor degree
+- *2021-2024*, Master of Engineering degree, Anhui University
+- *2017-2021*, Bachelor degree
  
 
 
