@@ -89,7 +89,7 @@ redirect_from:
   [[DOI](https://doi.org/10.1145/3545008.3545018)]
 
 # 🎖 Honors and Awards
-- *2024.09* Excellent Award, Alibaba Cloud TIANCHI Cloud Native Programming Challenge **(As Team Leader)**
+- *2024.09* Excellent Award, Alibaba Cloud TIANCHI Cloud Native Programming Challenge **(As Team Leader)**[News](https://developer.aliyun.com/article/1611031?spm=5176.26934562.main.1.507e1506evW7ia)
 - *2024.06* Outstanding Master's Graduates of Anhui University
 - *2022.10* National Scholarship, Ministry of Education of the P.R. China
 - *2022.09* Outstanding Graduate Student Model and First Prize Scholarship of Anhui University
