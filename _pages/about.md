@@ -28,7 +28,7 @@ redirect_from:
 - *2024.09*: &nbsp;🎉🎉 Our paper "DeepCAT+: A Low-Cost and Transferrable Online Configuration Auto-Tuning Approach for Big Data Framework" was accepted by TPDS.
 - *2024.08*: &nbsp;🎉🎉 Our paper "FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows" was accepted by ASE'24 Research Track.
 - *2024.07*: &nbsp;🎉🎉 Our paper "FaaSRCA: Full Lifecycle Root Cause Analysis for Serverless Applications" was accepted by ISSRE'24 Research Track.
-- *2023.07*: &nbsp;🎉🎉 Our poster "DeepCAT: A Cost-Efficient Online Configuration Auto-Tuning Approach for Big Data Frameworks" was presented at ACM TURC'2023 & ChinaSys.
+- *2023.07*: &nbsp;🎉🎉 Our poster "DeepCAT: A Cost-Efficient Online Configuration Auto-Tuning Approach for Big Data Frameworks" was presented at ACM TURC'2023 & ChinaSys.[[News](https://zhuanlan.zhihu.com/p/650016166)]
 - *2022.06*: &nbsp;🎉🎉 Our paper "DeepCAT: A Cost-Efficient Online Configuration Auto-Tuning Approach for Big Data Frameworks" was accepted by ICPP'22 Research Track.
 
 
