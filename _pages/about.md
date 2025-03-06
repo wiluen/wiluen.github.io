@@ -19,7 +19,7 @@ redirect_from:
 
 📚 Yilun Wang is currently a 1st PhD at [Sun Yat-Sen University](https://sysu.edu.cn/), advised by Professor [Pengfei Chen](https://cse.sysu.edu.cn/content/3747). Previously, he received a M.Eng from [Anhui University](https://www.ahu.edu.cn/) in 2024. He has interned at [Ant Group](https://www.antgroup.com/) in Cloud Platform Performance Management related departments, developing algorithms and solving real-world problems.
 
-💡 His research interest lies in performance optimization for cloud and LLM systems(e.g., knob, resource, workload management and scheduling). 
+💡 His research interest lies in performance optimization for cloud and LLM systems(e.g., configuration, resource, workload management and scheduling). 
 
 
 # 🔥 News
