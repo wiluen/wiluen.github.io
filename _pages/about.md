@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-📚 Yilun Wang is currently a 1st PhD at [Sun Yat-Sen University](https://sysu.edu.cn/), advised by Professor [Pengfei Chen](https://cse.sysu.edu.cn/content/3747). Previously, he received a M.Eng from [Anhui University](https://www.ahu.edu.cn/) in 2024. He has interned at [Ant Group](https://www.antgroup.com/) in Cloud Platform Performance Management related departments, developing algorithms and solving real-world problems.
+📚 Yilun Wang is currently a RA at [Sun Yat-Sen University](https://sysu.edu.cn/), advised by Professor [Pengfei Chen](https://cse.sysu.edu.cn/content/3747). Previously, he received a M.Eng from [Anhui University](https://www.ahu.edu.cn/) in 2024. He has interned at [Ant Group](https://www.antgroup.com/) in Cloud Platform Performance Management related departments, developing algorithms and solving real-world problems.
 
 💡 His research interest lies in performance optimization for cloud and LLM systems(e.g., configuration, resource, workload management and scheduling). 
 
@@ -96,7 +96,7 @@ redirect_from:
 - *2020.08* 2nd Prize at the National Level, The 13th Chinese Collegiate Computing Competition(4C) **(As Team Leader)**
 
 # 📖 Educations
-- *2024-Present*, PhD, Sun Yat-Sen University
+- *2023-Present*, RA, Sun Yat-Sen University
 - *2021-2024*, Master of Engineering degree, Anhui University, Joint M.Eng Program with Sun Yat-Sen University
 - *2017-2021*, Bachelor degree
  
