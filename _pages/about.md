@@ -23,6 +23,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 Our paper "InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching" was accepted by ICSE'26 Research Track.
 - *2025.05*: &nbsp;🎉🎉 Our paper "LLMConf: Knowledge-Enhanced Configuration Optimization for Large Language Model Inference" was accepted by IWQOS'25 Research Track.
 - *2024.10*: &nbsp;🎉🎉 Our paper "Mint: Cost-Efficient Tracing with All Requests Collection via Commonality and Variability Analysis" was accepted by ASPLOS'25 Research Track.[[News](https://mp.weixin.qq.com/s/xJs3I9jyX-xkuUpRu7_NWg)]
 - *2024.09*: &nbsp;🎉🎉 Our LLM-based ECS metrics prediction solutions won excellent award🏆 in the 2024 [TIANCHI Cloud Native Programming Challenge](https://tianchi.aliyun.com/competition/entrance/532202) (Bonus 5000¥).[[News](https://developer.aliyun.com/article/1611031?spm=5176.26934562.main.1.507e1506evW7ia)]
@@ -34,6 +35,17 @@ redirect_from:
 
 
 # 📝 Publications 
+- &nbsp; <span class="badge" style="font-size:16px;">ICSE '26 (CCF A)</span> &nbsp;**InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching**
+
+  <span style="font-size:14px;"> **Yilun Wang**, Pengfei Chen, Haiyu Huang, Zilong He, Gou Tan, Chuanfu Zhang, Jingkai He and Zibin Zheng. </span>
+
+  <span style="font-size:14px;"> *The 48th IEEE/ACM International Conference on Software Engineering, Rio de Janeiro, Brazil, April 2026.* </span>
+
+  [Paper]
+  [Code]
+  [Slides]
+  [DOI]
+  
 - &nbsp; <span class="badge" style="font-size:16px;">ASPLOS '25 (CCF A)</span> &nbsp;**Mint: Cost-Efficient Tracing with All Requests Collection via Commonality and Variability Analysis**
 
   <span style="font-size:14px;"> Haiyu Huang, Cheng Chen, Kunyi Chen, Pengfei Chen, Guangba Yu, Zilong He, **Yilun Wang**, Huxing Zhang and Qi Zhou. </span>
