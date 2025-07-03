@@ -23,15 +23,14 @@ redirect_from:
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Our paper "InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching" was accepted without revision by <span style="color:blue;">ICSE'26</span>.
-- *2025.05*: &nbsp;🎉🎉 Our paper "LLMConf: Knowledge-Enhanced Configuration Optimization for Large Language Model Inference" was accepted by IWQOS'25.
-- *2024.10*: &nbsp;🎉🎉 Our paper "Mint: Cost-Efficient Tracing with All Requests Collection via Commonality and Variability Analysis" was accepted by ASPLOS'25.[[News](https://mp.weixin.qq.com/s/xJs3I9jyX-xkuUpRu7_NWg)]
+- *2025.06*: &nbsp;🎉🎉 Our InferLog was accepted without revision by <span style="color:Green;">ICSE'26</span>.
+- *2025.05*: &nbsp;🎉🎉 Our LLMConf was accepted by <span style="color:Green;">IWQOS'25</span>.
+- *2024.10*: &nbsp;🎉🎉 Our Mint was accepted by <span style="color:Green;">ASPLOS'25</span>.[[News](https://mp.weixin.qq.com/s/xJs3I9jyX-xkuUpRu7_NWg)]
 - *2024.09*: &nbsp;🎉🎉 Our LLM-based ECS metrics prediction solutions won excellent award🏆 in the 2024 [TIANCHI Cloud Native Programming Challenge](https://tianchi.aliyun.com/competition/entrance/532202) (Bonus 5000¥).[[News](https://developer.aliyun.com/article/1611031?spm=5176.26934562.main.1.507e1506evW7ia)]
-- *2024.09*: &nbsp;🎉🎉 Our paper "DeepCAT+: A Low-Cost and Transferrable Online Configuration Auto-Tuning Approach for Big Data Framework" was accepted by TPDS.
-- *2024.08*: &nbsp;🎉🎉 Our paper "FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows" was accepted by ASE'24.
-- *2024.07*: &nbsp;🎉🎉 Our paper "FaaSRCA: Full Lifecycle Root Cause Analysis for Serverless Applications" was accepted by ISSRE'24.
-- *2023.07*: &nbsp;🎉🎉 Our poster "DeepCAT: A Cost-Efficient Online Configuration Auto-Tuning Approach for Big Data Frameworks" was presented at ACM TURC'2023 & ChinaSys.[[News](https://zhuanlan.zhihu.com/p/650016166)]
-- *2022.06*: &nbsp;🎉🎉 Our paper "DeepCAT: A Cost-Efficient Online Configuration Auto-Tuning Approach for Big Data Frameworks" was accepted by ICPP'22.
+- *2024.09*: &nbsp;🎉🎉 Our DeepCAT+ was accepted by <span style="color:Green;">TPDS</span>.
+- *2024.08*: &nbsp;🎉🎉 Our FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows" was accepted by <span style="color:Green;">ASE'24</span>.
+- *2024.07*: &nbsp;🎉🎉 Our FaaSRCA: Full Lifecycle Root Cause Analysis for Serverless Applications" was accepted by <span style="color:Green;">ISSRE'24</span>.
+- *2022.06*: &nbsp;🎉🎉 Our DeepCAT was accepted by <span style="color:Green;">ICPP'22</span> and was presented at <span style="color:Green;">ACM TURC'2023 & ChinaSys</span>.[[News](https://zhuanlan.zhihu.com/p/650016166)]
 
 
 # 📝 Publications 
