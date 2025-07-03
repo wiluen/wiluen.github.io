@@ -30,7 +30,7 @@ redirect_from:
 - *2024.09*: &nbsp;🎉🎉 Our DeepCAT+ was accepted by <span style="color:Red ;">TPDS</span>.
 - *2024.08*: &nbsp;🎉🎉 Our FaaSConf was accepted by <span style="color:Red ;">ASE'24</span>.
 - *2024.07*: &nbsp;🎉🎉 Our FaaSRCA was accepted by <span style="color:Red ;">ISSRE'24</span>.
-- *2022.06*: &nbsp;🎉🎉 Our DeepCAT was accepted by <span style="color:Red ;">ICPP'22</span> and was presented at <span style="color:Green;">ACM TURC'2023 & ChinaSys</span>.[[News](https://zhuanlan.zhihu.com/p/650016166)]
+- *2022.06*: &nbsp;🎉🎉 Our DeepCAT was accepted by <span style="color:Red ;">ICPP'22</span> and was presented at <span style="color:Red;">ACM TURC'2023 & ChinaSys</span>.[[News](https://zhuanlan.zhihu.com/p/650016166)]
 
 
 # 📝 Publications 
