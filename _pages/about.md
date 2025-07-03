@@ -119,9 +119,9 @@ redirect_from:
 - *2020.08* 2nd Prize at the National Level, The 13th Chinese Collegiate Computing Competition(4C) **(As Team Leader)**
 
 # 📖 Educations
-- *2023-Present*, RA, Sun Yat-Sen University
-- *2021-2024*, Master of Engineering degree, Anhui University, Joint M.Eng Program with Sun Yat-Sen University
-- *2017-2021*, Bachelor degree
+- *2023.03-2025.06*, Research Assistant, Sun Yat-Sen University
+- *2021.09-2024.06*, Master of Engineering degree, Anhui University
+- *2017.09-2021.06*, Bachelor degree
  
 
 
