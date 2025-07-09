@@ -40,7 +40,7 @@ redirect_from:
 
   <span style="font-size:14px;"> *The 48th IEEE/ACM International Conference on Software Engineering, Rio de Janeiro, Brazil, April 2026.* </span>
 
-  [Paper]
+  [[Paper](https://github.com/wiluen/wiluen.github.io/blob/main/files/inferlog/icse26.pdf)]
   [Code]
   [Slides]
   [DOI]
