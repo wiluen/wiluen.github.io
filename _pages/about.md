@@ -43,7 +43,7 @@ redirect_from:
   [[Paper](https://github.com/wiluen/wiluen.github.io/blob/main/files/inferlog/icse26.pdf)]
   [Code]
   [Slides]
-  [DOI]
+  [[DOI](https://arxiv.org/abs/2507.08523)]
   
 - &nbsp; <span class="badge" style="font-size:16px;">ASPLOS '25 (CCF A)</span> &nbsp;**Mint: Cost-Efficient Tracing with All Requests Collection via Commonality and Variability Analysis**
 
