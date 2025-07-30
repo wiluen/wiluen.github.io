@@ -23,7 +23,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Our InferLog was accepted without revision by <span style="color:Red ;">ICSE'26</span>.
+- *2025.06*: &nbsp;🎉🎉 Our InferLog was accepted without revision by <span style="color:Red ;">ICSE'26</span> with an acceptance rate of 9% (60/660).
 - *2025.05*: &nbsp;🎉🎉 Our LLMConf was accepted by <span style="color:Red ;">IWQOS'25</span>.
 - *2024.10*: &nbsp;🎉🎉 Our Mint was accepted by <span style="color:Red ;">ASPLOS'25</span>.[[News](https://mp.weixin.qq.com/s/xJs3I9jyX-xkuUpRu7_NWg)]
 - *2024.09*: &nbsp;🎉🎉 Our LLM-based ECS metrics prediction solutions won excellent award🏆 in the 2024 [TIANCHI Cloud Native Programming Challenge](https://tianchi.aliyun.com/competition/entrance/532202) (Bonus 5000¥).[[News](https://developer.aliyun.com/article/1611031?spm=5176.26934562.main.1.507e1506evW7ia)]
