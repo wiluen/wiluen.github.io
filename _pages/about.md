@@ -36,7 +36,7 @@ redirect_from:
 # 📝 Publications 
 - &nbsp; <span class="badge" style="font-size:16px;">ICSE '26 (CCF A)</span> &nbsp;**InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching**
 
-  <span style="font-size:14px;"> **Yilun Wang**, Pengfei Chen, Haiyu Huang, Zilong He, Gou Tan, Chuanfu Zhang, Jingkai He and Zibin Zheng. </span>
+  <span style="font-size:14px;"> <strong style="color:#DE3163">Yilun Wang</strong>, Pengfei Chen, Haiyu Huang, Zilong He, Gou Tan, Chuanfu Zhang, Jingkai He and Zibin Zheng. </span>
 
   <span style="font-size:14px;"> *The 48th IEEE/ACM International Conference on Software Engineering, Rio de Janeiro, Brazil, April 2026.* </span>
 
