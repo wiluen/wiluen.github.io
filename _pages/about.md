@@ -56,18 +56,6 @@ redirect_from:
   [Slides]
   [DOI]
 
-
-- &nbsp; <span class="badge" style="font-size:16px;">TPDS '24 (CCF A)</span> &nbsp;**DeepCAT+: A Low-Cost and Transferrable Online Configuration Auto-Tuning Approach for Big Data Framework**
-
-  <span style="font-size:14px;"> Hui Dou, <strong style="color:#DE3163">Yilun Wang(student first author)</strong>, Yiwen Zhang, Pengfei Chen, Zibin Zheng. </span>
-
-  <span style="font-size:14px;"> *IEEE Transactions on Parallel and Distributed Systems.* </span>
-
-  [Paper]
-  [[Code](https://github.com/wiluen/DeepCAT)]
-  [Slides]
-  [DOI]
-  
 - &nbsp; <span class="badge" style="font-size:16px;">ASE '24 (CCF A)</span> &nbsp;**FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows**
 
   <span style="font-size:14px;"> <strong style="color:#DE3163">Yilun Wang</strong>, Pengfei Chen, Hui Dou, Guangba Yu, Zilong He and Haiyu Huang. </span>
@@ -78,8 +66,20 @@ redirect_from:
   [[Code](https://github.com/wiluen/FaaSConf)]
   [Slides]
   [[DOI](https://doi.org/10.1145/3691620.3695477)]
+  
+- &nbsp; <span class="badge" style="font-size:16px;">TPDS '24 (CCF A)</span> &nbsp;**DeepCAT+: A Low-Cost and Transferrable Online Configuration Auto-Tuning Approach for Big Data Framework**
 
-  - &nbsp; <span class="badge" style="font-size:16px;">IWQOS '25 (CCF B)</span> &nbsp;**LLMConf: Knowledge-Enhanced Configuration Optimization for Large Language Model Inference**
+  <span style="font-size:14px;"> Hui Dou, <strong style="color:#DE3163">Yilun Wang(1st student author)</strong>, Yiwen Zhang, Pengfei Chen, Zibin Zheng. </span>
+
+  <span style="font-size:14px;"> *IEEE Transactions on Parallel and Distributed Systems.* </span>
+
+  [Paper]
+  [[Code](https://github.com/wiluen/DeepCAT)]
+  [Slides]
+  [DOI]
+  
+
+- &nbsp; <span class="badge" style="font-size:16px;">IWQOS '25 (CCF B)</span> &nbsp;**LLMConf: Knowledge-Enhanced Configuration Optimization for Large Language Model Inference**
 
   <span style="font-size:14px;"> Jingkai He, Pengfei Chen, <strong style="color:#DE3163">Yilun Wang</strong>, Haiyu Huang, Chuanfu Zhang, Haojia Huang, Danwen Chen. </span>
 
