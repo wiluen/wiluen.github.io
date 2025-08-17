@@ -38,79 +38,49 @@ redirect_from:
 
   <span style="font-size:14px;"> <strong style="color:#DE3163">Yilun Wang</strong>, Pengfei Chen, Haiyu Huang, Zilong He, Gou Tan, Chuanfu Zhang, Jingkai He and Zibin Zheng. </span>
 
-  <span style="font-size:14px;"> *The 48th IEEE/ACM International Conference on Software Engineering, Rio de Janeiro, Brazil, April 2026.* </span>
+  <span style="font-size:14px;"> *The 48th IEEE/ACM International Conference on Software Engineering, Rio de Janeiro, Brazil, April 2026.* </span>[[Paper](https://arxiv.org/abs/2507.08523)][[Code](https://github.com/wiluen/InferLog)]
 
-  [[Paper](https://github.com/wiluen/wiluen.github.io/blob/main/files/inferlog/icse26.pdf)]
-  [Code]
-  [Slides]
-  [[DOI](https://arxiv.org/abs/2507.08523)]
   
 - &nbsp; <span class="badge" style="font-size:16px;">ASPLOS '25 (CCF A)</span> &nbsp;**Mint: Cost-Efficient Tracing with All Requests Collection via Commonality and Variability Analysis**
 
   <span style="font-size:14px;"> Haiyu Huang, Cheng Chen, Kunyi Chen, Pengfei Chen, Guangba Yu, Zilong He, <strong style="color:#DE3163">Yilun Wang</strong>, Huxing Zhang and Qi Zhou. </span>
 
-  <span style="font-size:14px;"> *The ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Rotterdam, the Netherlands, March-April 2025.* </span>
-
-  [Paper]
-  [Code]
-  [Slides]
-  [DOI]
+  <span style="font-size:14px;"> *The ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Rotterdam, the Netherlands, March-April 2025.* </span>[[Paper](https://doi.org/10.1145/3669940.3707287)]
 
 - &nbsp; <span class="badge" style="font-size:16px;">ASE '24 (CCF A)</span> &nbsp;**FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows**
 
   <span style="font-size:14px;"> <strong style="color:#DE3163">Yilun Wang</strong>, Pengfei Chen, Hui Dou, Guangba Yu, Zilong He and Haiyu Huang. </span>
 
-  <span style="font-size:14px;"> *The 39th IEEE/ACM International Conference on Automated Software Engineering, California, United States, October 2024.* </span>
+  <span style="font-size:14px;"> *The 39th IEEE/ACM International Conference on Automated Software Engineering, California, United States, October 2024.* </span>[[Paper](https://github.com/wiluen/wiluen.github.io/blob/main/files/faasconf/faasconf_camera_ready.pdf)][[Code](https://github.com/wiluen/FaaSConf)]
 
-  [[Paper](https://github.com/wiluen/wiluen.github.io/blob/main/files/faasconf/faasconf_camera_ready.pdf)]
-  [[Code](https://github.com/wiluen/FaaSConf)]
-  [Slides]
-  [[DOI](https://doi.org/10.1145/3691620.3695477)]
   
 - &nbsp; <span class="badge" style="font-size:16px;">TPDS '24 (CCF A)</span> &nbsp;**DeepCAT+: A Low-Cost and Transferrable Online Configuration Auto-Tuning Approach for Big Data Framework**
 
   <span style="font-size:14px;"> Hui Dou, <strong style="color:#DE3163">Yilun Wang(1st student author)</strong>, Yiwen Zhang, Pengfei Chen, Zibin Zheng. </span>
 
-  <span style="font-size:14px;"> *IEEE Transactions on Parallel and Distributed Systems.* </span>
+  <span style="font-size:14px;"> *IEEE Transactions on Parallel and Distributed Systems.* </span>[[Paper](https://doi.org/10.1109/TPDS.2024.3459889)][[Code](https://github.com/wiluen/DeepCAT)]
 
-  [Paper]
-  [[Code](https://github.com/wiluen/DeepCAT)]
-  [Slides]
-  [DOI]
   
 
 - &nbsp; <span class="badge" style="font-size:16px;">IWQOS '25 (CCF B)</span> &nbsp;**LLMConf: Knowledge-Enhanced Configuration Optimization for Large Language Model Inference**
 
   <span style="font-size:14px;"> Jingkai He, Pengfei Chen, <strong style="color:#DE3163">Yilun Wang</strong>, Haiyu Huang, Chuanfu Zhang, Haojia Huang, Danwen Chen. </span>
 
-  <span style="font-size:14px;"> *IEEE/ACM International Symposium on Quality of Service, Gold Coast, Australia, July 2025.* </span> 
+  <span style="font-size:14px;"> *IEEE/ACM International Symposium on Quality of Service, Gold Coast, Australia, July 2025.* </span> [[Code](https://github.com/IntelligentDDS/LLMConf)]
 
-  [Paper]
-  [Code]
-  [Slides]
-  [DOI]
 
 - &nbsp; <span class="badge" style="font-size:16px;">ISSRE '24 (CCF B)</span> &nbsp;**FaaSRCA: Full Lifecycle Root Cause Analysis for Serverless Applications**
 
   <span style="font-size:14px;"> Jin Huang, Pengfei Chen, Guangba Yu, <strong style="color:#DE3163">Yilun Wang</strong>, Haiyu Huang and Zilong He. </span>
 
-  <span style="font-size:14px;"> *The 35th International Symposium on Software Reliability Engineering, Tsukuba, Japan, October 2024.* </span>
-
-  [Paper]
-  [Code]
-  [Slides]
-  [DOI]
+  <span style="font-size:14px;"> *The 35th International Symposium on Software Reliability Engineering, Tsukuba, Japan, October 2024.* </span>[[Paper](https://doi.org/10.1109/ISSRE62328.2024.00047)]
 
 - &nbsp; <span class="badge" style="font-size:16px;">ICPP '22 (CCF B)</span> &nbsp;**DeepCAT: A Cost-Efficient Online Configuration Auto-Tuning Approach for Big Data Frameworks**
 
   <span style="font-size:14px;"> Hui Dou, <strong style="color:#DE3163">Yilun Wang(1st student author)</strong>, Yiwen Zhang, Pengfei Chen. </span>
 
-  <span style="font-size:14px;"> *The 51st International Conference on Parallel Processing, Bordeaux, France, August 2022.* </span>
+  <span style="font-size:14px;"> *The 51st International Conference on Parallel Processing, Bordeaux, France, August 2022.* </span>[[Paper](https://doi.org/10.1145/3545008.3545018)][[Code](https://github.com/wiluen/DeepCAT)]
 
-  [[Paper](https://github.com/wiluen/wiluen.github.io/blob/main/files/deepcat/22ICPP.pdf)]
-  [[Code](https://github.com/wiluen/DeepCAT)]
-  [Slides]
-  [[DOI](https://doi.org/10.1145/3545008.3545018)]
 
 # 🎖 Honors and Awards
 - *2024.09* Excellent Award, Alibaba Cloud TIANCHI Cloud Native Programming Challenge **(As Team Leader)**
