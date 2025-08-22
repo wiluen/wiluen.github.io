@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yilun Wang"
-description              : "Research Assistant, CSE, SYSU"
+description              : "Ph.D. student of CSE, CUHK"
 # repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yilun Wang"
   avatar           : "images/touxiang.png"
-  bio              : "Sun Yat-sen University"
-  location         : "Guangzhou, China"
+  bio              : "The Chinese University of Hong Kong"
+  location         : " Sha Tin, Hong Kong SAR"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=X-KFpakAAAAJ"  
