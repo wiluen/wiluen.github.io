@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-📚 Yilun Wang is currently a 1st-year CSE Ph.D. student at [The Chinese University of Hong Kong](https://www.cse.cuhk.edu.hk/), advised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Previously, he worked as a Research Assistant at Sun Yat-sen University under the guidance of [Prof. Pengfei Chen](https://cse.sysu.edu.cn/teacher/ChenPengfei). He has interned at [Huawei](https://www.huawei.com/) and [Ant Group](https://www.antgroup.com/) in Cloud Platform Performance Management related departments, developing algorithms and solving real-world problems.
+📚 Yilun Wang is currently a 1st-year CSE Ph.D. student at [The Chinese University of Hong Kong](https://www.cse.cuhk.edu.hk/), advised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Previously, he worked as a Research Assistant at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) under the guidance of [Prof. Pengfei Chen](https://cse.sysu.edu.cn/teacher/ChenPengfei). He has interned at [Huawei](https://www.huawei.com/) and [Ant Group](https://www.antgroup.com/) in Cloud Platform Performance Management related departments, developing algorithms and solving real-world problems.
 
 💡 His research interest lies in (1)Performance optimization for cloud and LLM systems(e.g., config tuning and requests scheduling);(2)LLM4SE
 
