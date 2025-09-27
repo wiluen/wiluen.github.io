@@ -50,7 +50,7 @@ redirect_from:
   <span style="font-size:14px;"> *The ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Rotterdam, the Netherlands, March-April 2025.* </span>[[Paper](https://doi.org/10.1145/3669940.3707287)]
   
 
-- &nbsp; <span class="badge" style="font-size:16px;">SoCC '25 (CCF A)</span> &nbsp;**Defragmentation Scheduling with Deep Reinforcement Learning in Shared GPU Clusters**
+- &nbsp; <span class="badge" style="font-size:16px;">SoCC '25 (CCF B)</span> &nbsp;**Defragmentation Scheduling with Deep Reinforcement Learning in Shared GPU Clusters**
 
   <span style="font-size:14px;"> Qingfu Wu, Pengfei Chen*, <strong style="color:#DE3163">Yilun Wang</strong>.
 
