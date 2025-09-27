@@ -36,7 +36,7 @@ redirect_from:
 
 # 📝 Publications 
   
-- &nbsp; <span class="badge" style="font-size:16px;">ICSE '26 (CCF B)</span> &nbsp;**InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching**
+- &nbsp; <span class="badge" style="font-size:16px;">ICSE '26 (CCF A)</span> &nbsp;**InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching**
 
   <span style="font-size:14px;"> <strong style="color:#DE3163">Yilun Wang</strong>, Pengfei Chen*, Haiyu Huang, Zilong He, Gou Tan, Chuanfu Zhang, Jingkai He and Zibin Zheng. </span>
 
@@ -54,7 +54,7 @@ redirect_from:
 
   <span style="font-size:14px;"> Qingfu Wu, Pengfei Chen*, <strong style="color:#DE3163">Yilun Wang</strong>.
 
-  <span style="font-size:14px;"> *The 16th ACM Symposium on Cloud Computing, virtual event, November 2025.* </span>
+  <span style="font-size:14px;"> *The 16th ACM Symposium on Cloud Computing, Virtual event, November 2025.* </span>
   
 
 - &nbsp; <span class="badge" style="font-size:16px;">ASE '24 (CCF A)</span> &nbsp;**FaaSConf: QoS-aware Hybrid Resources Configuration for Serverless Workflows**
