@@ -83,7 +83,7 @@ redirect_from:
 
   <span style="font-size:14px;"> Jin Huang, Pengfei Chen*, Guangba Yu, <strong style="color:#DE3163">Yilun Wang</strong>, Haiyu Huang and Zilong He. </span>
 
-  <span style="font-size:14px;"> *The 35th International Symposium on Software Reliability Engineering, Tsukuba, Japan, October 2024.* </span>[[Paper](https://doi.org/10.1109/ISSRE62328.2024.00047)]
+  <span style="font-size:14px;"> *The 35th International Symposium on Software Reliability Engineering, Tsukuba, Japan, October 2024.* </span>[[Paper](https://arxiv.org/abs/2412.02239)]
 
 - &nbsp; <span class="badge" style="font-size:16px;">ICPP '22 (CCF B)</span> &nbsp;**DeepCAT: A Cost-Efficient Online Configuration Auto-Tuning Approach for Big Data Frameworks**
 
