@@ -91,6 +91,11 @@ redirect_from:
 
   <span style="font-size:14px;"> *The 51st International Conference on Parallel Processing, Bordeaux, France, August 2022.* </span>[[Paper](https://doi.org/10.1145/3545008.3545018)][[Code](https://github.com/wiluen/DeepCAT)]
 
+# 💻 Internships
+  ![Huawei Logo](https://wenweigu.github.io/images/Huawei.png){:width="30" height="30"} *2025.07 - Now*, Intern, Huawei Cloud, Shenzhen, China
+
+  ![Ant Logo](https://wenweigu.github.io/images/Huawei.png){:width="30" height="30"} *2024.12 - 2025.08*, Intern, Ant Group, Beijing, China
+
 
 # 🎖 Honors and Awards
 - *2024.09* Excellent Award, Alibaba Cloud TIANCHI Cloud Native Programming Challenge **(As Team Leader)**
@@ -106,4 +111,4 @@ redirect_from:
  
 
 
-<!-- # 💻 Internships -->
+
