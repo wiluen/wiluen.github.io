@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-📚 Yilun Wang is currently a 1st-year CSE Ph.D. student at [The Chinese University of Hong Kong](https://www.cse.cuhk.edu.hk/), advised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Previously, he recieved Master degree from Anhui University & Sun Yat-sen University joint program under the guidance of [Prof. Pengfei Chen](https://cse.sysu.edu.cn/teacher/ChenPengfei). 
+📚 Yilun Wang is currently a 1st-year CSE Ph.D. student at [The Chinese University of Hong Kong](https://www.cse.cuhk.edu.hk/), advised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Previously, he recieved Master degree from Anhui University & Sun Yat-sen University joint program under the guidance of [Prof. Pengfei Chen](https://cse.sysu.edu.cn/teacher/ChenPengfei) and Prof. Hui Dou. 
+
 💡 His research interest lies in (1)Performance optimization for cloud and LLM systems(e.g., config tuning and requests scheduling);(2)LLM4SE
 
 
