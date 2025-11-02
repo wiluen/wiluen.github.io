@@ -94,7 +94,7 @@ redirect_from:
 # 💻 Internships
   ![Huawei Logo](https://wiluen.github.io/images/Huawei.png){:width="30" height="30"} *2025.07 - Now*, Intern, Huawei Cloud, Shenzhen, China
 
-  ![Ant Logo](https://wiluen.github.io/images/Ant.png){:width="30" height="30"} *2024.12 - 2025.08*, Intern, Ant Group, Beijing, China
+  ![Ant Logo](https://wiluen.github.io/images/Ant.png){:width="30" height="30"} *2023.12 - 2024.08*, Intern, Ant Group, Beijing, China
 
 
 # 🎖 Honors and Awards
