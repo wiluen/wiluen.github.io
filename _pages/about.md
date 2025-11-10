@@ -104,6 +104,8 @@ redirect_from:
 - *2022.09* Outstanding Graduate Student Model and First Prize Scholarship
 - *2020.08* 2nd Prize at the National Level, The 13th Chinese Collegiate Computing Competition(4C) **(As Team Leader)**
 
+# 📖 Teaching
+- Teaching Assistant of ENGG1110,2025-2026 Term 1
 <!-- # # 📖 Educations-->
 <!-- # - *2023.03-2025.06*, Research Assistant, Sun Yat-Sen University -->
 <!-- # - *2021.09-2024.06*, Master of Engineering degree, Anhui University -->
