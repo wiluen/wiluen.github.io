@@ -89,7 +89,7 @@ redirect_from:
 
   <span style="font-size:14px;"> Hui Dou, <strong style="color:#DE3163">Yilun Wang(1st student author)</strong>, Yiwen Zhang*, Pengfei Chen. </span>
 
-  <span style="font-size:14px;"> *The 51st International Conference on Parallel Processing, Bordeaux, France, August 2022.* </span>[[Paper](https://doi.org/10.1145/3545008.3545018)][[Code](https://github.com/wiluen/DeepCAT)]
+  <span style="font-size:14px;"> *The 51st International Conference on Parallel Processing, Bordeaux, France, August 2022.* </span>[[Paper](https://github.com/wiluen/wiluen.github.io/blob/main/files/deepcat/22ICPP.pdf)][[Code](https://github.com/wiluen/DeepCAT)]
 
 # 💻 Internships
   ![Huawei Logo](https://wiluen.github.io/images/Huawei.png){:width="30" height="30"} *2025.07 - Now*, Intern, Huawei Cloud, Shenzhen, China
