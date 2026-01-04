@@ -92,7 +92,7 @@ redirect_from:
   <span style="font-size:14px;"> *The 51st International Conference on Parallel Processing, Bordeaux, France, August 2022.* </span>[[Paper](https://github.com/wiluen/wiluen.github.io/blob/main/files/deepcat/22ICPP.pdf)][[Code](https://github.com/wiluen/DeepCAT)]
 
 # 💻 Internships
-  ![Huawei Logo](https://wiluen.github.io/images/Huawei.png){:width="30" height="30"} *2025.07 - Now*, Intern, Huawei Cloud, Shenzhen, China
+ <!-- ![Huawei Logo](https://wiluen.github.io/images/Huawei.png){:width="30" height="30"} *2025.07 - Now*, Intern, Huawei Cloud, Shenzhen, China -->
 
   ![Ant Logo](https://wiluen.github.io/images/Ant.png){:width="30" height="30"} *2023.12 - 2024.08*, Intern, Ant Group, Beijing, China
 
