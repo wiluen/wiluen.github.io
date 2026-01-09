@@ -112,4 +112,4 @@ redirect_from:
 <!-- # - *2017.09-2021.06*, Bachelor degree -->
  
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=7I4v8T4MW2ALRuxdT1LRY9hJugOZLRPPTzzkinyWyeQ&cl=ffffff&w=a"></script>
+<a href="https://mapmyvisitors.com/web/1c1qw"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=7I4v8T4MW2ALRuxdT1LRY9hJugOZLRPPTzzkinyWyeQ&cl=ffffff" style="display: block; margin: 0 auto; width: auto;/></a>
