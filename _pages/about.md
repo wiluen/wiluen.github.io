@@ -42,7 +42,12 @@ redirect_from:
 
   <span style="font-size:14px;"> *The 48th IEEE/ACM International Conference on Software Engineering, Rio de Janeiro, Brazil, April 2026.* </span>[[Paper](https://arxiv.org/abs/2507.08523)][[Code](https://github.com/wiluen/InferLog)]
   
-  
+- &nbsp; <span class="badge" style="font-size:15px; background-color:#c00000; color:white;">TOSEM '26 (CCF A)</span> &nbsp;**LLMRCA: Multilevel Root Causes Analysis for LLM Applications Using Multimodal Observability Data**
+
+  <span style="font-size:14px;"> Gou Tan, Zilong He, Min Li, Haiyu Huang, <strong style="color:#DE3163">Yilun Wang</strong>, Pengfei Chen*, Giuliano Casale, Chuanfu Zhang. </span>
+
+  <span style="font-size:14px;"> *ACM Transactions on Software Engineering and Methodology.* </span>[[Paper](https://dl.acm.org/doi/10.1145/3806200)][[Code](https://github.com/IntelligentDDS/LLMRCA)]
+
 - &nbsp; <span class="badge" style="font-size:16px;">ASPLOS '25 (CCF A)</span> &nbsp;**Mint: Cost-Efficient Tracing with All Requests Collection via Commonality and Variability Analysis**
 
   <span style="font-size:14px;"> Haiyu Huang, Cheng Chen, Kunyi Chen, Pengfei Chen*, Guangba Yu, Zilong He, <strong style="color:#DE3163">Yilun Wang</strong>, Huxing Zhang and Qi Zhou. </span>
