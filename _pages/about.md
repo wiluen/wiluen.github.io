@@ -42,7 +42,7 @@ redirect_from:
 
   <span style="font-size:14px;"> *The 48th IEEE/ACM International Conference on Software Engineering, Rio de Janeiro, Brazil, April 2026.* </span>[[Paper](https://arxiv.org/abs/2507.08523)][[Code](https://github.com/wiluen/InferLog)]
   
-- &nbsp; <span class="badge" style="font-size:15px; background-color:#c00000; color:white;">TOSEM '26 (CCF A)</span> &nbsp;**LLMRCA: Multilevel Root Causes Analysis for LLM Applications Using Multimodal Observability Data**
+- &nbsp; <span class="badge" style="font-size:16px;">TOSEM '26 (CCF A)</span> &nbsp;**LLMRCA: Multilevel Root Causes Analysis for LLM Applications Using Multimodal Observability Data**
 
   <span style="font-size:14px;"> Gou Tan, Zilong He, Min Li, Haiyu Huang, <strong style="color:#DE3163">Yilun Wang</strong>, Pengfei Chen*, Giuliano Casale, Chuanfu Zhang. </span>
 
