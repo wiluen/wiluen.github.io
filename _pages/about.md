@@ -19,7 +19,7 @@ redirect_from:
 
 📚 Yilun Wang is currently a 1st-year CSE Ph.D. student at [The Chinese University of Hong Kong](https://www.cse.cuhk.edu.hk/), advised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Previously, he recieved Master degree from [AHU](https://en.ahu.edu.cn/)-[SYSU](https://www.sysu.edu.cn/sysuen/) joint program under the guidance of [Prof. Pengfei Chen](https://cse.sysu.edu.cn/teacher/ChenPengfei) and Prof. Hui Dou.
 
-💡 His research interest lies in (1)Performance optimization for cloud and LLM systems; (2)LLM4SE
+💡 His research interest lies in building and evaluating AI agents for SRE, see [Cloud-OpsBench](https://github.com/LLM4Ops/Cloud-OpsBench).
 
 
 # 🔥 News
